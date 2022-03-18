@@ -1,6 +1,10 @@
 # specify site authors in this file
 # you can add .yml files for any other global data in this folder
 
+fnds:
+    name: FNdS
+    email: fnds@dbafiles.com
+    web: http://www.dbafiles.com
 dan_urbanowicz:
     name: Dan Urbanowicz
     email: dan.urbanowicz@gmail.com
