@@ -1,6 +1,6 @@
 ---
 layout: post
-title: cwrap.sh - Cron Wrapper
+title: cwrap.sh - cron wrapper
 author: john_doe
 date: 2022-03-23 16:55:09
 ---
